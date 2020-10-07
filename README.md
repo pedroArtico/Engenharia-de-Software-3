@@ -1,3 +1,14 @@
-# Engenharia-de-Software-3
-Software desenvolvido em Java (para uma tabacaria) em grupo, durante o periodo de graduacao
-A etapa de levantamento de requisitos e analise de requisitos foi necessaria e tamvem esta contida neste projeto.
+# **Unicamp FT** - disciplina de **Engenharia de Software III**
+## Sistema para gerenciamento de tabacaria
+---
+### Grupo AHKKP:
+
+| Nome | Papel |
+|------|-------|
+| André Estevam | Programador |
+| Huanna Nascimento | Product Owner |
+| Karen Malzoni | Tester |
+| Kaulitz Guimaraes | Coordenador |
+| Pedro Artico | Tester |
+
+O software possibilitará ao usuário administrar as atividades de uma **tabacaria** de maneira mais simples e segura. O software permite a inserção, remoção, consulta e cadastro de fornecedores, funcionários, produtos e vendas. Todas essas  funcionalidades são apresentadas em um menu, onde o usuário pode escolher qual ação deseja realizar, sempre de acordo com suas necessidades.
